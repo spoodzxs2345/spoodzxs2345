@@ -16,9 +16,9 @@ I am <b>Jan Joshua Aus</b>. I am currently a Computer Science student at Univers
 ![](https://img.shields.io/badge/AI-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
 
 ## Github Stats
-<a href="https://github.com/mattekudacy/mattekudacy">
+<a href="https://github.com/spoodzxs2345/spoodzxs2345">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoodzxs2345&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
 </a>
-<a href="https://github.com/mattekudacy/mattekudacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spoodzxs2345&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cyrus' GitHub Stats" />
+<a href="https://github.com/spoodzxs2345/spoodzxs2345">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spoodzxs2345&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jan Joshua's GitHub Stats" />
 </a>
