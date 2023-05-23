@@ -1,3 +1,4 @@
+![Header](https://github.com/spoodzxs2345/spoodzxs2345/blob/main/a%20cool%20picture.jpg "Header")
 # Hallo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 I am <b>Jan Joshua Aus</b>. I am currently a Computer Science student at University of the East - Caloocan <img src="https://seeklogo.com/images/U/university-of-the-east-logo-CED9100C40-seeklogo.com.gif" width=20px> and a voluntary IT intern at Dewaste Solutions. I am interested with Data Science, Machine Learning, Computer Vision, and Front-End Web Development. You can connect with me through <a href="https://www.linkedin.com/in/jan-joshua-aus/"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="20px"></a> and <a href="https://web.facebook.com/janjoshua.camaraaus"><img src="https://seeklogo.com/images/F/facebook-logo-C64946D6D2-seeklogo.com.png" width="20px"></a>.
 
