@@ -6,12 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spoodzxs2345" alt="spoodzxs2345" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning on Google Cloud**
+  
+- 👨‍💻 All of my projects are available at [my portfolio](https://spoodzxs2345.github.io/jan-joshua-aus/)
 
 - 📫 How to reach me **ausjanjoshua0@gmail.com**
 
 - 📄 Know about my experiences [Check out my CV here](https://docs.google.com/document/d/1bJfvG1wz5ScIS-4ql0U0JHZtb1LY6J4UGxT-qM__dRI/edit?usp=sharing)
 
-- ⚡ Fun fact **I love data and AI.**
+- ⚡ Fun fact: **I love data and AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
